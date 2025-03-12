@@ -1,0 +1,11 @@
+a200_0706:
+  sensors:
+    imu_0:
+      microstrain_inertial_driver:
+        ros__parameters:
+          port: '/dev/microstrain_main'
+          aux_port: '/dev/ttyACM1'
+          baudrate: 115200
+          frame_id: 'imu_0_link'
+          publish_mount_to_frame_id_transform: False
+          use_enu_frame: True
