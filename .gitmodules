@@ -1,0 +1,12 @@
+[submodule "unitree_interfaces"]
+	path = unitree_interfaces
+	url = https://github.com/UFL-Autonomy-Park/unitree_interfaces
+[submodule "emlid_interface"]
+	path = emlid_interface
+	url = https://github.com/UFL-Autonomy-Park/emlid_interface
+[submodule "holonomic_interpreter"]
+	path = holonomic_interpreter
+	url = https://github.com/UFL-Autonomy-Park/holonomic_interpreter
+[submodule "minimal_startup_ground"]
+	path = minimal_startup_ground
+	url = https://github.com/UFL-Autonomy-Park/minimal_startup_ground
